@@ -1,7 +1,12 @@
-MON ÉQUILIBRE — DESIGN FIDÈLE V3
+MON ÉQUILIBRE — VERSION SAMSUNG FINALE
 
-Décompresser le ZIP et envoyer tous les fichiers à la racine du dépôt GitHub (remplacer les fichiers existants). Ne pas envoyer le dossier parent.
+Design basé sur le montage des quatre écrans validé.
 
-Conserve la clé de sauvegarde localStorage mon-equilibre-v1. Faire une sauvegarde JSON depuis Réglages avant mise à jour.
+Pour GitHub Pages : mettre les 11 fichiers à la racine du dépôt, pas le ZIP.
+Conserver le même navigateur et le même domaine pour préserver les données locales.
+Avant toute modification : ouvrir Données > Exporter une sauvegarde.
+Les données restent dans le navigateur (clé mon-equilibre-v1).
+Le cache PWA est versionné samsung-final-1.
 
-Le nouveau design est adaptatif mobile, avec navigation basse, calendrier, objectifs et anneaux de progression. Les pourcentages sont calculés à partir des cases cochées, pas de capteurs de santé.
+Écrans : Accueil, Planning, Objectifs, Suivi, Profil.
+Gestion des activités et habitudes : création, édition, suppression, répétition et suivi.
